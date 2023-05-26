@@ -1,0 +1,13 @@
+{
+    "name": "Google Map",
+    "description": "Scrape Map ",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "index.html"
+    },
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ]
+}
